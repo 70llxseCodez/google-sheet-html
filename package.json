@@ -1,0 +1,17 @@
+{
+    "name": "html-goolesheet",
+    "version": "1.0.0",
+    "description": "",
+    "main": "sheet.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "react-toastify": "^9.0.8",
+        "toastify-js": "^1.12.0"
+    }
+}
